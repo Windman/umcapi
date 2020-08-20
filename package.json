@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "dependencies": {
     "@types/socketio-jwt": "0.0.0",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.2",
     "codelyzer": "0.0.28",
     "cors": "^2.8.1",
